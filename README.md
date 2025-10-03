@@ -4,7 +4,9 @@ Este repositório reúne todo o meu aprendizado na linguagem C, incluindo anota�
 Aqui você encontrará:
 
 🧠 Conceitos fundamentais da linguagem
+
 🧪 Programas de teste e desafios resolvidos
+
 🚀 Projetos simples para treinar lógica e programação
 
 Sinta-se à vontade para acompanhar minha evolução ou dar sugestões! 💻✨
